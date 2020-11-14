@@ -8,3 +8,4 @@ function factorial2x(value) {
 }
 
 showValue(factorial2x(10));
+showValue(advancedOperations.summation(10, 30));
