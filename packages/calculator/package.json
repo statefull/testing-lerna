@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@testing-lerna/basics-operations": "^1.0.0",
     "@testing-lerna/advanced-operations": "^1.0.0",
+    "@testing-lerna/basics-operations": "^1.0.0",
     "@testing-lerna/common": "^1.0.0"
   }
 }
