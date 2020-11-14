@@ -1,0 +1,16 @@
+{
+  "name": "@testing-lerna/calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@testing-lerna/basics-operations": "^1.0.0",
+    "@testing-lerna/advanced-operations": "^1.0.0",
+    "@testing-lerna/common": "^1.0.0"
+  }
+}
